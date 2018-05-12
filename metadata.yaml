@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6389'
     url: http://www.gutenberg.org/2009/agents/6389
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16583#The-Yoke--13-A-Romance-of-the-Days-when-the-Lord-Redeemed-the-Children-of-Israel-from-the-Bon_
 gutenberg_issued: '2005-08-22'
 gutenberg_type: Text
 identifiers:
